@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc38159b5e64f83468e2936b0a74594a, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  classType: 0
+  moveSpeed: 5
+  maxHealth: 100
+  maxMana: 50
+  attack: 10
+  defense: 5
+  critChance: 10
+  classPortrait: {fileID: 0}
+  abilityPrefab: {fileID: 0}
+  classProjectile: {fileID: 0}
+  ProjectileObject: {fileID: 0}
